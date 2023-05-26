@@ -8,6 +8,9 @@ database for later display.
 As this is just a toy example, pgc2 is currently only a barebones experiment.
 
 
+![](screenshot.png)
+
+
 ## How to play
 
 1. Clone the repository: `git clone https://github.com/cydave/pgc2.git && cd pgc2`
